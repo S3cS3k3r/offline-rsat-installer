@@ -30,6 +30,7 @@ This is useful when:
 You must choose the ISO download link according to the target Windows build/version.
 
 Before running the script, replace the `$IsoUrl` value with the correct **Language and Optional Features ISO** URL for the Windows version you are targeting.
+Direct links can be found here: https://learn.microsoft.com/en-us/azure/virtual-desktop/windows-11-language-packs
 
 ## Usage
 
