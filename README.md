@@ -46,6 +46,7 @@ After installation, you can open Active Directory Users and Computers with:
 
 ```powershell
 dsa.msc
+```
 
 ## Keywords
 
