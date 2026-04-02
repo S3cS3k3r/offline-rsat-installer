@@ -1,8 +1,3 @@
----
-
-## `README.ru.md`
-
-```md
 # Offline RSAT Installer for Windows
 
 [English version](README.md)
