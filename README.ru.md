@@ -35,6 +35,7 @@ PowerShell-скрипт для офлайн-установки RSAT в Windows �
 Ссылку на ISO нужно выбирать в зависимости от версии/сборки Windows.
 
 Перед запуском скрипта замени значение `$IsoUrl` на правильную ссылку на **Language and Optional Features ISO** для той версии Windows, на которой будет выполняться установка.
+Прямые ссылки можно найти здесь: https://learn.microsoft.com/en-us/azure/virtual-desktop/windows-11-language-packs
 
 ## Как использовать
 
