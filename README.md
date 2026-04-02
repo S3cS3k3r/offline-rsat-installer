@@ -45,3 +45,7 @@ After installation, you can open Active Directory Users and Computers with:
 
 ```powershell
 dsa.msc
+
+## Keywords
+
+RSAT, offline RSAT installer, PowerShell, Windows 11, Windows 10, Features on Demand, FoD, WSUS, offline install
